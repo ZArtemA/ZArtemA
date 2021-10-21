@@ -11,6 +11,8 @@
 
 Теперь моя цель стать мастером фронтенд-разработки и постепенно зайти на территорию бэкенда. Я хочу узнать все особенности создания сайтов и веб-приложений.
 
+__Моя почта:__ <a target="_blank" rel="noopener noreferrer" href="mister.zyrianovartyom@yandex.ru">mister.zyrianovartyom@yandex.ru</a>
+
 ## Мой стек:
 
 
